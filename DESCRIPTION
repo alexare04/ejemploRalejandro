@@ -18,3 +18,5 @@ Imports:
     DBI,
     RPostgres
 Config/roxygen2/version: 8.1.1
+URL: https://github.com/alexare04/ejemploRalejandro
+BugReports: https://github.com/alexare04/ejemploRalejandro/issues
